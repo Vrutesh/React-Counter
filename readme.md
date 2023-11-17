@@ -1,0 +1,1 @@
+Designed and built Counter using React JS
